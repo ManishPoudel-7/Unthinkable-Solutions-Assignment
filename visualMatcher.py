@@ -2,7 +2,6 @@ import streamlit as st
 from PIL import Image ,ImageOps
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
-import pillow_avif 
 import requests
 from io import BytesIO
 import json
