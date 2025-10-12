@@ -3,7 +3,7 @@
     "id": 1,
     "name": "A1",
     "category": "pets",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A1.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A1.jpg",
     "vector": [
       0.029832158237695694,
       0.09545259177684784,
@@ -523,7 +523,7 @@
     "id": 2,
     "name": "A10",
     "category": "pets",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A10.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A10.jpg",
     "vector": [
       0.35807284712791443,
       0.23672020435333252,
@@ -1043,7 +1043,7 @@
     "id": 3,
     "name": "A11",
     "category": "pets",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A11.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A11.jpg",
     "vector": [
       0.17504601180553436,
       0.24365510046482086,
@@ -1563,7 +1563,7 @@
     "id": 4,
     "name": "A2",
     "category": "pets",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A2.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A2.jpg",
     "vector": [
       0.23070350289344788,
       0.28213465213775635,
@@ -2083,7 +2083,7 @@
     "id": 5,
     "name": "A3",
     "category": "pets",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A3.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A3.jpg",
     "vector": [
       0.10016489028930664,
       0.008248014375567436,
@@ -2603,7 +2603,7 @@
     "id": 6,
     "name": "A4",
     "category": "pets",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A4.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A4.jpg",
     "vector": [
       0.0380752868950367,
       -0.09518936276435852,
@@ -3123,7 +3123,7 @@
     "id": 7,
     "name": "A5",
     "category": "pets",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A5.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A5.jpg",
     "vector": [
       0.4368288516998291,
       -0.026614781469106674,
@@ -3643,7 +3643,7 @@
     "id": 8,
     "name": "A6",
     "category": "pets",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A6.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A6.jpg",
     "vector": [
       0.2569306194782257,
       -0.06776754558086395,
@@ -4163,7 +4163,7 @@
     "id": 9,
     "name": "A7",
     "category": "pets",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A7.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A7.jpg",
     "vector": [
       0.13864605128765106,
       0.15233273804187775,
@@ -4683,7 +4683,7 @@
     "id": 10,
     "name": "A8",
     "category": "pets",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A8.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A8.jpg",
     "vector": [
       -0.05830000713467598,
       -0.7361680865287781,
@@ -5203,7 +5203,7 @@
     "id": 11,
     "name": "A9",
     "category": "pets",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A9.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/A9.jpg",
     "vector": [
       0.0021209879778325558,
       0.47100406885147095,
@@ -5723,7 +5723,7 @@
     "id": 12,
     "name": "C1",
     "category": "anime",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C1.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C1.jpg",
     "vector": [
       -0.009443365037441254,
       0.20190231502056122,
@@ -6243,7 +6243,7 @@
     "id": 13,
     "name": "C10",
     "category": "anime",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C10.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C10.jpg",
     "vector": [
       -0.07607337832450867,
       0.6743672490119934,
@@ -6763,7 +6763,7 @@
     "id": 14,
     "name": "C11",
     "category": "anime",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C11.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C11.jpg",
     "vector": [
       -0.045299410820007324,
       -0.05677404999732971,
@@ -7283,7 +7283,7 @@
     "id": 15,
     "name": "C12",
     "category": "anime",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C12.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C12.jpg",
     "vector": [
       -0.15994924306869507,
       -0.003758165054023266,
@@ -7803,7 +7803,7 @@
     "id": 16,
     "name": "C2",
     "category": "anime",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C2.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C2.jpg",
     "vector": [
       -0.054900191724300385,
       0.44146206974983215,
@@ -8323,7 +8323,7 @@
     "id": 17,
     "name": "C3",
     "category": "anime",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C3.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C3.jpg",
     "vector": [
       -0.19311025738716125,
       0.056516408920288086,
@@ -8843,7 +8843,7 @@
     "id": 18,
     "name": "C4",
     "category": "anime",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C4.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C4.jpg",
     "vector": [
       -0.13115809857845306,
       0.10519471764564514,
@@ -9363,7 +9363,7 @@
     "id": 19,
     "name": "C5",
     "category": "anime",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C5.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C5.jpg",
     "vector": [
       0.008258510380983353,
       0.32502633333206177,
@@ -9883,7 +9883,7 @@
     "id": 20,
     "name": "C6",
     "category": "anime",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C6.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C6.jpg",
     "vector": [
       0.14305652678012848,
       -0.07150443643331528,
@@ -10403,7 +10403,7 @@
     "id": 21,
     "name": "C7",
     "category": "anime",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C7.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C7.jpg",
     "vector": [
       -0.29641976952552795,
       -0.11695673316717148,
@@ -10923,7 +10923,7 @@
     "id": 22,
     "name": "C8",
     "category": "anime",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C8.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C8.jpg",
     "vector": [
       -0.46077272295951843,
       0.040491264313459396,
@@ -11443,7 +11443,7 @@
     "id": 23,
     "name": "C9",
     "category": "anime",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C9.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/C9.jpg",
     "vector": [
       0.16435256600379944,
       0.043130673468112946,
@@ -11963,7 +11963,7 @@
     "id": 24,
     "name": "F1",
     "category": "flowers",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f1.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f1.jpg",
     "vector": [
       -0.3253389298915863,
       0.25189682841300964,
@@ -12483,7 +12483,7 @@
     "id": 25,
     "name": "F10",
     "category": "flowers",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f10.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f10.jpg",
     "vector": [
       -0.04596009850502014,
       -0.04121997952461243,
@@ -13003,7 +13003,7 @@
     "id": 26,
     "name": "F11",
     "category": "flowers",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f11.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f11.jpg",
     "vector": [
       -0.3524259924888611,
       -0.10218542814254761,
@@ -13523,7 +13523,7 @@
     "id": 27,
     "name": "F2",
     "category": "flowers",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f2.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f2.jpg",
     "vector": [
       -0.2207850217819214,
       0.23391516506671906,
@@ -14043,7 +14043,7 @@
     "id": 28,
     "name": "F3",
     "category": "flowers",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f3.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f3.jpg",
     "vector": [
       0.07234764844179153,
       0.14225782454013824,
@@ -14563,7 +14563,7 @@
     "id": 29,
     "name": "F4",
     "category": "flowers",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f4.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f4.jpg",
     "vector": [
       -0.09377554059028625,
       0.22715434432029724,
@@ -15083,7 +15083,7 @@
     "id": 30,
     "name": "F5",
     "category": "flowers",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f5.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f5.jpg",
     "vector": [
       0.11093179136514664,
       0.19607000052928925,
@@ -15603,7 +15603,7 @@
     "id": 31,
     "name": "F6",
     "category": "flowers",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f6.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f6.jpg",
     "vector": [
       -0.0628366693854332,
       0.1771191954612732,
@@ -16123,7 +16123,7 @@
     "id": 32,
     "name": "F7",
     "category": "flowers",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f7.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f7.jpg",
     "vector": [
       -0.2573999762535095,
       -0.0290017519146204,
@@ -16643,7 +16643,7 @@
     "id": 33,
     "name": "F8",
     "category": "flowers",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f8.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f8.jpg",
     "vector": [
       0.01144296396523714,
       0.6279487013816833,
@@ -17163,7 +17163,7 @@
     "id": 34,
     "name": "F9",
     "category": "flowers",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f9.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/f9.jpg",
     "vector": [
       -0.25720900297164917,
       0.3866310119628906,
@@ -17683,7 +17683,7 @@
     "id": 35,
     "name": "H1",
     "category": "humans",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h1.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h1.jpg",
     "vector": [
       -0.030293185263872147,
       0.3480559289455414,
@@ -18203,7 +18203,7 @@
     "id": 36,
     "name": "H10",
     "category": "humans",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h10.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h10.jpg",
     "vector": [
       -0.07808715105056763,
       0.2438146322965622,
@@ -18723,7 +18723,7 @@
     "id": 37,
     "name": "H11",
     "category": "humans",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h11.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h11.jpg",
     "vector": [
       0.6472077965736389,
       -0.01043001376092434,
@@ -19243,7 +19243,7 @@
     "id": 38,
     "name": "H2",
     "category": "humans",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h2.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h2.jpg",
     "vector": [
       0.20899562537670135,
       0.029446540400385857,
@@ -19763,7 +19763,7 @@
     "id": 39,
     "name": "H3",
     "category": "humans",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h3.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h3.jpg",
     "vector": [
       0.272615522146225,
       0.22648173570632935,
@@ -20283,7 +20283,7 @@
     "id": 40,
     "name": "H4",
     "category": "humans",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h4.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h4.jpg",
     "vector": [
       -0.6286720633506775,
       -0.03851805254817009,
@@ -20803,7 +20803,7 @@
     "id": 41,
     "name": "H5",
     "category": "humans",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h5.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h5.jpg",
     "vector": [
       -0.015581246465444565,
       0.004303811118006706,
@@ -21323,7 +21323,7 @@
     "id": 42,
     "name": "H6",
     "category": "humans",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h6.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h6.jpg",
     "vector": [
       0.2178936004638672,
       0.49619388580322266,
@@ -21843,7 +21843,7 @@
     "id": 43,
     "name": "H7",
     "category": "humans",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h7.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h7.jpg",
     "vector": [
       -0.06269104033708572,
       0.20569443702697754,
@@ -22363,7 +22363,7 @@
     "id": 44,
     "name": "H8",
     "category": "humans",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h8.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h8.jpg",
     "vector": [
       0.029199905693531036,
       0.11275354027748108,
@@ -22883,7 +22883,7 @@
     "id": 45,
     "name": "H9",
     "category": "humans",
-    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h9.avif",
+    "image_path": "https://raw.githubusercontent.com/ManishPoudel-7/Unthinkable-Solutions-Assignment/master/data/Images/h9.jpg",
     "vector": [
       0.468461275100708,
       0.3695618212223053,
