@@ -1,5 +1,5 @@
 import streamlit as st
-from PIL import Image
+from PIL import Image ,ImageOps
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import pillow_avif 
@@ -31,17 +31,20 @@ with col2:
 
 if uploadedImage or picture:
     st.markdown("### Your Image")
-    col_img = st.columns(2)
+    col_img = st.columns([1, 2, 1])
 
     with col_img[1]:
         if uploadedImage:
             img = Image.open(uploadedImage)
-            st.image(img)
+            img_resized = img.resize((300, 300))
+            st.image(img_resized, width=300)
             image_to_encode = img
         elif picture:
-            st.image(picture)
             response = requests.get(picture)
-            image_to_encode = Image.open(BytesIO(response.content))
+            img = Image.open(BytesIO(response.content))
+            img_resized = img.resize((300, 300))
+            st.image(img_resized, width=300)
+            image_to_encode = img
 
     st.markdown("---")
 
@@ -76,7 +79,9 @@ if uploadedImage or picture:
                 cols = st.columns(3)
                 for idx, match in enumerate(filtered[i:i+3]):
                     with cols[idx]:
-                        st.image(match['image_path'], use_container_width=True)
+                        product_img = Image.open(match['image_path'])
+                        product_img_resized = product_img.resize((300, 300))
+                        st.image(product_img_resized, use_container_width=True)
                         st.write(f"**{match['name']}**")
                         st.write(f"Category: {match['category']}")
                         st.write(f"Similarity: {match['similarityScore']:.2f}%")
