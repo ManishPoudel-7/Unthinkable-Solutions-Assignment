@@ -78,7 +78,16 @@ if uploadedImage or picture:
                 cols = st.columns(3)
                 for idx, match in enumerate(filtered[i:i+3]):
                     with cols[idx]:
-                        product_img = Image.open(match['image_path'])
+                        # Check if image_path is a URL or local file
+                        if match['image_path'].startswith('http'):
+                            # It's a URL - fetch it
+                            response = requests.get(match['image_path'])
+                            product_img = Image.open(BytesIO(response.content))
+                        else:
+                            # It's a local file
+                            product_img = Image.open(match['image_path'])
+                        
+                        product_img = ImageOps.exif_transpose(product_img)
                         product_img_resized = product_img.resize((300, 300))
                         st.image(product_img_resized, use_container_width=True)
                         st.write(f"**{match['name']}**")
