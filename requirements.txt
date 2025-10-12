@@ -1,0 +1,6 @@
+streamlit
+Pillow
+sentence-transformers
+scikit-learn
+pillow-avif
+requests
