@@ -39,11 +39,18 @@ if uploadedImage or picture:
             st.image(img_resized, width=300)
             image_to_encode = img
         elif picture:
-            response = requests.get(picture)
-            img = Image.open(BytesIO(response.content))
-            img_resized = img.resize((300, 300))
-            st.image(img_resized, width=300)
-            image_to_encode = img
+            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+            response = requests.get(picture, headers=headers)
+
+            if response.status_code == 200 and "image" in response.headers.get("Content-Type", ""):
+                img = Image.open(BytesIO(response.content))
+                img_resized = img.resize((300, 300))
+                st.image(img_resized, width=300)
+                image_to_encode = img
+            else:
+                st.error("❌ Unable to load image from the provided URL. Please check the link.")
+                st.stop()
+
 
     st.markdown("---")
 
