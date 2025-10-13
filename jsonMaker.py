@@ -8,27 +8,39 @@ model = SentenceTransformer('clip-ViT-B-32')
 
 # Category of the Image
 def getCategory(filename):
-    prefix = filename[0].lower()
-
+    # Extract the prefix before the hyphen
+    if '-' in filename:
+        prefix = filename.split('-')[0].lower()
+    else:
+        prefix = filename.split('.')[0].lower()
+    
     allCategories = {
-        'f': 'flowers',
-        'h': 'humans',
-        'a': 'pets',
-        'c': 'anime',
-        's': 'scenery'
+        'book': 'Books',
+        'doll': 'Dolls',
+        'fan': 'Fans',
+        'laptop': 'Laptops',
+        'refrigerator': 'Refrigerators',
+        'scenery': 'Scenery',
+        'shirt': 'Shirts',
+        'smartphone': 'Smartphones',
+        'teddybear': 'Teddy Bears',
+        'toycar': 'Toy Cars',
+        'tshirt': 'T-Shirts',
+        'washingmachine': 'Washing Machines',
+        'watch': 'Watches'
     }
-
-    return allCategories.get(prefix , 'unknown')
+    
+    return allCategories.get(prefix, 'Unknown')
 
 # Array for all the Images
 allImages = []
 imagesFolder = 'data/Images'
 
-for index , filename in enumerate(os.listdir(imagesFolder)):
-    if not filename.lower().endswith(('.jpg', '.png', '.jpeg' , '.avif')):
+for index, filename in enumerate(os.listdir(imagesFolder)):
+    if not filename.lower().endswith(('.jpg', '.png', '.jpeg')):
         continue
 
-    imagePath = os.path.join(imagesFolder , filename)
+    imagePath = os.path.join(imagesFolder, filename)
     image = Image.open(imagePath)
 
     # Making Vector of the image
@@ -40,7 +52,7 @@ for index , filename in enumerate(os.listdir(imagesFolder)):
     # Single Product Entry
     singleImage = {
         "id": index + 1,
-        "name": filename.split('.')[0].upper(), 
+        "name": filename.split('.')[0].replace('-', ' ').title(), 
         "category": category,
         "image_path": imagePath,
         "vector": vector
@@ -49,8 +61,7 @@ for index , filename in enumerate(os.listdir(imagesFolder)):
     allImages.append(singleImage)
 
 # Saving to JSON
-with open('data/products.json' , 'w') as f:
-    json.dump(allImages , f , indent=2)
-
+with open('data/products.json', 'w') as f:
+    json.dump(allImages, f, indent=2)
 
 print(f"Processed {len(allImages)} products!")

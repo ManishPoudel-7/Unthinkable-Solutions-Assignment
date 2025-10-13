@@ -58,8 +58,9 @@ if uploadedImage or picture:
             results = []
             for product in allProducts:
                 similarity = cosine_similarity([vector] , [product['vector']])[0][0]
-                product['similarityScore'] = similarity * 100
-                results.append(product)
+                product_copy = product.copy()
+                product_copy['similarityScore'] = similarity * 100
+                results.append(product_copy)
 
             results.sort(key = lambda x:x['similarityScore'] , reverse=True)
             topMatches =  results[:5]
