@@ -27,4 +27,4 @@ This project allows users to upload an image or paste an image URL, and the syst
 - Handle both **local file uploads** and **image URLs** with proper error checking to ensure robust operation.
 
 ## 🌐 Live Demo
-Try it out here: [Visual Product Matcher](https://manishpoudel-7-unthinkable-solutions-assig-visualmatcher-s72wan.streamlit.app/)
+Try it out here: [Visual Product Matcher](https://unthinkable-solutions-assignment-kzhapd7t8yisisacvtnz4v.streamlit.app/)
