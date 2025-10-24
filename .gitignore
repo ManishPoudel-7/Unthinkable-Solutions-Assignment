@@ -3,3 +3,5 @@ myenv/
 __pycache__/
 .env*.pdf 
 *.docx 
+*.pdf 
+*.docx 
