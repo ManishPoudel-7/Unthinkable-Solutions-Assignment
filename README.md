@@ -1,4 +1,4 @@
-# 🔍 Visual Product Matcher
+git # 🔍 Visual Product Matcher
 
 A web application that finds visually similar products based on uploaded images using AI-powered image embeddings and similarity search.
 
